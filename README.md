@@ -50,16 +50,12 @@ This lists various services that provide free access or credits towards API-base
 
 Models share a common quota.
 
-- [Gemma 3 12B Instruct](https://openrouter.ai/google/gemma-3-12b-it:free)
-- [Gemma 3 27B Instruct](https://openrouter.ai/google/gemma-3-27b-it:free)
-- [Gemma 3 4B Instruct](https://openrouter.ai/google/gemma-3-4b-it:free)
 - [Hermes 3 Llama 3.1 405B](https://openrouter.ai/nousresearch/hermes-3-llama-3.1-405b:free)
 - [Llama 3.2 3B Instruct](https://openrouter.ai/meta-llama/llama-3.2-3b-instruct:free)
 - [Llama 3.3 70B Instruct](https://openrouter.ai/meta-llama/llama-3.3-70b-instruct:free)
+- [baidu/cobuddy:free](https://openrouter.ai/baidu/cobuddy:free)
 - [baidu/qianfan-ocr-fast:free](https://openrouter.ai/baidu/qianfan-ocr-fast:free)
 - [cognitivecomputations/dolphin-mistral-24b-venice-edition:free](https://openrouter.ai/cognitivecomputations/dolphin-mistral-24b-venice-edition:free)
-- [google/gemma-3n-e2b-it:free](https://openrouter.ai/google/gemma-3n-e2b-it:free)
-- [google/gemma-3n-e4b-it:free](https://openrouter.ai/google/gemma-3n-e4b-it:free)
 - [google/gemma-4-26b-a4b-it:free](https://openrouter.ai/google/gemma-4-26b-a4b-it:free)
 - [google/gemma-4-31b-it:free](https://openrouter.ai/google/gemma-4-31b-it:free)
 - [inclusionai/ling-2.6-1t:free](https://openrouter.ai/inclusionai/ling-2.6-1t:free)
@@ -399,6 +395,7 @@ Extremely restrictive input/output token limits.
 - deepseek-ai/DeepSeek-V3.2
 - google/gemma-3-12b-it
 - minimaxai/minimax-m2.5
+- minimaxai/minimax-m2.7
 - openai/gpt-oss-120b
 
 ### [Scaleway Generative APIs](https://console.scaleway.com/generative-api/models)
@@ -412,6 +409,7 @@ Extremely restrictive input/output token limits.
 - Pixtral 12B (2409)
 - Whisper Large v3
 - devstral-2-123b-instruct-2512
+- gemma-4-26b-a4b-it
 - gpt-oss-120b
 - holo2-30b-a3b
 - mistral-small-3.2-24b-instruct-2506
